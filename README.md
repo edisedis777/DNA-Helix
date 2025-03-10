@@ -4,6 +4,9 @@ A dynamic, interactive visualization of a DNA double helix structure with animat
 
 ![DNA Helix Visualization](https://github.com/user-attachments/assets/88e9d14e-d4ac-4632-bc89-7482eaeb471c)
 
+## Demo
+
+Try it live: [HERE](https://edisedis777.github.io/DNA-Helix/)
 
 ## Features
 
@@ -15,9 +18,6 @@ A dynamic, interactive visualization of a DNA double helix structure with animat
 - **Legend**: Color-coded guide for nucleobases (Adenine, Cytosine, Guanine, Thymine, Uracil).
 - **Title**: Clear "DNA Helix Visualization" header for context.
 
-## Demo
-
-Try it live: [HERE](https://edisedis777.github.io/DNA-Helix/)
 
 ## Installation
 

@@ -17,7 +17,7 @@ A dynamic, interactive visualization of a DNA double helix structure with animat
 
 ## Demo
 
-Try it live: [https://edisedis777.github.io/DNA-Helix/]
+[Try it live:](https://edisedis777.github.io/DNA-Helix/)
 
 ## Installation
 

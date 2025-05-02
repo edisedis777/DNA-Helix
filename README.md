@@ -5,7 +5,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![CreateJS](https://img.shields.io/badge/CreateJS-JavaScript%20Library-0082C9?logo=javascript&logoColor=white)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A dynamic, interactive visualization of a DNA double helix structure with animated background particles, built using CreateJS. It's optimized for both desktop and mobile devices.
 
@@ -80,17 +79,12 @@ dna-helix-visualization/
 ### Issues
 - Found a bug or have a suggestion? Please open an issue with details.
 
-### License
-This project is licensed under the MIT License.
-
 ### Credits
 Built with CreateJS
 
-### Future Plans
-- Add zoom functionality for closer inspection
-- Implement speed controls for the animation
-- Include educational tooltips for base pairs
-- Optimize further for low-end devices
+### License
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
+
 
 <div align="right">
 

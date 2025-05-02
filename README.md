@@ -80,10 +80,10 @@ dna-helix-visualization/
 - Found a bug or have a suggestion? Please open an issue with details.
 
 ### Credits
-Built with CreateJS
+- Built with CreateJS
 
 ### License
-Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
+- Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 
 <div align="right">
